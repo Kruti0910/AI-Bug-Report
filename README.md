@@ -1,4 +1,4 @@
-# 🐞 AI Bug Reporting Platform (Frontend)
+# 🐞 AI Bug Reporting Platform 
 
 A simple frontend application built with **Next.js**, **TypeScript**, and **TailwindCSS**, designed to collect bug reports and later integrate with an AI/NLP backend for classification and severity scoring.
 
@@ -6,7 +6,7 @@ A simple frontend application built with **Next.js**, **TypeScript**, and **Tail
 
 ## 🚀 Tech Stack
 
-- ⚛️ Next.js (Frontend Framework)
+- ⚛️ Next.js 
 - 🧠 TypeScript
 - 🎨 Tailwind CSS
 - 🐳 Docker (for containerization)
