@@ -14,7 +14,7 @@ import Link from "next/link"
 const mockBugs = [
   {
     id: "BUG-001",
-    title: "Login button not responding on mobile",
+    title: "Login button not responding on the mobile",
     description: "The login button becomes unresponsive on mobile devices after multiple taps",
     category: "UI/Frontend",
     severity: "High",
@@ -28,7 +28,7 @@ const mockBugs = [
   {
     id: "BUG-002",
     title: "API response timeout on user profile",
-    description: "User profile API calls are timing out after 30 seconds",
+    description: "User profile API calls are timing out after 30 seconds of time",
     category: "Backend",
     severity: "Medium",
     status: "In Progress",
